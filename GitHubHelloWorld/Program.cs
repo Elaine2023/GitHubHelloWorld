@@ -4,7 +4,7 @@ namespace GitHubHelloWorld
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //Vera made a comment here
         {
             Console.WriteLine("Hello World!"); //test comment
         }
